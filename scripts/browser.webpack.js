@@ -10,7 +10,7 @@ export default {
     aliasFields: ['browser'],
     alias: {
       ...info.browser,
-      path: 'path-esm'
+      path: 'path-esm' 
     }
   },
   output: {
