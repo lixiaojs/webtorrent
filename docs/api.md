@@ -10,7 +10,7 @@ To use WebTorrent in the browser, [WebRTC] support is required (Chrome, Firefox,
 ## Install
 
 ```bash
-npm install webtorrent
+npm install webtorrent1232
 ```
 
 ## Quick Example
