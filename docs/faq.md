@@ -16,7 +16,7 @@ distributed, decentralized browser-to-browser network for efficient file transfe
 
 Imagine a video site like YouTube, where **visitors help to host the site's
 content**. The more people that use a WebTorrent-powered website, the faster and
-more resilient it becomes.
+more resilient it becomes.test1
 
 Browser-to-browser communication **cuts out the middle-man** and lets people
 communicate on their own terms. No more client/server – just a network of peers,
